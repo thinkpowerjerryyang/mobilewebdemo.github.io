@@ -1,0 +1,17 @@
+.card.paded:hover {
+  text-decoration: none;
+}
+
+.card-icon-group {
+  text-align: center;
+}
+
+.card-icon-css {
+  text-align: center !important;
+  width: 60%;
+}
+
+.card-icon-travel {
+  text-align: center !important;
+  width: 40%;
+}
