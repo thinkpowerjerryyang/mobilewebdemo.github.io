@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	BIGipServerPROD_JB_B2C_Pool_80	!i9ts9QP88Mn58i5c4X6C0+O3YQX1ujwKnF9jWgIbNQOL8+pgAF9Q4OzDFXqTDl+mUKAuDuehRRemYNI=
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	sitecore.cathay-ins	!Mskd1/rtlZmkb9hM03uiB6dHt/zKEzLim165p9PvYW5u/2ScbKWMj/YHsa3I8D59ueXYlCbF844ehHFPcc1G+r30SHj6/d3kKYH7+WJSCuZwaw/7/Op0bTHRSTpqWaqnO87f+anUEXzWqb8qR/N4VWNPMWgw4zY=
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	4xbmyabxl1zzkyshjvksnpqx
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	SC_ANALYTICS_GLOBAL_COOKIE	98f0ed5d78dd43ceb20c70c0de946f9e|False
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	SMFirstTimeFlag	0
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	CMFirstTimeFlag	0
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	FirstTimeFlag	0
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	TS01b8c3ef	010cf270ec5118a5b9ec40630a7cf18a2b782cf764d1e10d9c5ea876eec7341f5333b746454296b0c7b237175b63abd6f0e64cf490
+www.cathay-ins.com.tw	TRUE	/	FALSE	1999999999	TS0192b1a2	010f8661b798f842b19fe35f75d4daa58b300b28cd80f5b0b666482f7f58d3d79e18de766cffe6101c08f1ea18ccd7094fcaa9f43bb419cb2ce0a04eef0a3f7c7b03e0a6a7
+

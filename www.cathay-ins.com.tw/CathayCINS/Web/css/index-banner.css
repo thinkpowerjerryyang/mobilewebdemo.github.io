@@ -1,0 +1,47 @@
+.search-banner {
+  width: 100%;
+}
+.banner-typeset {
+  width: 100%;
+  position: relative !important;
+}
+
+.banner-img {
+  padding-top: 60px;
+  text-align: center;
+  height: 312px;
+}
+
+.banner-img01 {
+  background-image: url("../img/index/banner01.png");
+}
+
+.banner-img02 {
+  background-image: url("../img/index/banner02.png");
+}
+
+.banner-img03 {
+  background-image: url("../img/index/banner03.png");
+}
+
+.banner-content {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 0;
+  /* text-align: center; */
+}
+
+.banner-content-group {
+  display: inline-block;
+  text-align: start;
+}
+
+.banner-button {
+  margin-top: 60px;
+  border: solid 2px #cccccc !important;
+  background-color: #fff !important;
+  color: #099e69 !important;
+  font-weight: bold !important;
+  min-width: 200px !important;
+}

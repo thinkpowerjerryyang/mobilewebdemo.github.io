@@ -1,0 +1,55 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 May 2020 17:03:44 at https://www.cathay-ins.com.tw/cathayins/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cathay-ins.com.tw/cathayins/ -O1 "C:\My Websites\mytest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:03:45	Warning: 	Moved Permanently for https://www.cathay-ins.com.tw/cathayins/
+17:03:45	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/ to https://www.cathay-ins.com.tw/cathayins/personal/
+17:04:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.cathay-ins.com.tw/cathayins/personal/)
+17:06:56	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/company/sustainable/
+17:06:56	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/company/sustainable/ to /cathayins/company/sustainable/happiness/1
+17:08:17	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/events/
+17:08:17	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/events/ to /cathayins/personal/events/hot
+17:08:24	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/company/sustainable/happiness/
+17:08:24	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/company/sustainable/happiness/ to /cathayins/company/sustainable/happiness/1
+17:08:55	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/group/
+17:08:55	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/group/ to /cathayins/personal/group/shuttle
+17:09:46	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/commercial/fireaccident/
+17:09:46	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/commercial/fireaccident/ to /cathayins/commercial/fireaccident/losscontrol
+17:09:46	Error: 	"Not Found" (404) at link https://www.cathay-ins.com.tw/cathayins/img/index/tab-arrow.png (from https://www.cathay-ins.com.tw/cathayins/commercial/)
+17:11:15	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/popular/
+17:11:15	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/popular/ to /cathayins/personal/popular/camping
+17:11:15	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/events/list/all/
+17:11:15	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/events/list/all/ to /cathayins/personal/events/list/all/201901q1
+17:11:44	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/others/
+17:11:44	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/others/ to /cathayins/personal/others/bicycle
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/events/list/travel/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/events/list/travel/ to /cathayins/personal/events/list/travel/201907q3
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/events/list/car/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/events/list/car/ to /cathayins/personal/events/list/car/201907sale
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/events/list/member/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/events/list/member/ to /cathayins/personal/events/list/member/201810q4
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/company/sustainable/enviroment/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/company/sustainable/enviroment/ to /cathayins/company/sustainable/enviroment/1
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/company/sustainable/prosperity/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/company/sustainable/prosperity/ to /cathayins/company/sustainable/prosperity/1
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/company/sustainable/goverance/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/company/sustainable/goverance/ to /cathayins/company/sustainable/goverance/1
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/company/sustainable/statement/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/company/sustainable/statement/ to /cathayins/company/sustainable/statement/psi
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/commercial/trafficaccident/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/commercial/trafficaccident/ to /cathayins/commercial/trafficaccident/tap
+17:11:47	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/commercial/group/
+17:11:47	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/commercial/group/ to /cathayins/commercial/group/restaurant
+17:11:48	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/commercial/popular/
+17:11:48	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/commercial/popular/ to /cathayins/commercial/popular/fire
+17:11:48	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/commercial/others/
+17:11:48	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/commercial/others/ to /cathayins/commercial/others/fireinsurence
+17:11:48	Warning: 	Found for https://www.cathay-ins.com.tw/cathayins/personal/events/list/car/201907sale/
+17:11:48	Warning: 	File has moved from https://www.cathay-ins.com.tw/cathayins/personal/events/list/car/201907sale/ to /cathayins/personal/events/hot
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 4 seconds : 1368 links scanned, 1344 files written (265381999 bytes overall) [266793124 bytes received at 551225 bytes/sec], 11.9 requests per connection
+(2 errors, 42 warnings, 0 messages)
