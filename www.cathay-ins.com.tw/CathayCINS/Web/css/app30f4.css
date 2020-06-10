@@ -8524,6 +8524,7 @@ footer .contact-info .item {
   padding-left: 0;
 }
 footer .contact-info .btn.btn-block {
+  display: flex;
   text-align: left;
   height: auto;
   max-width: 280px;
