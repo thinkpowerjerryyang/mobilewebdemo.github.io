@@ -1,5 +1,5 @@
 /** 讀取模板列表 */
-function loadTemplates(prefix = '../../../') {
+function loadTemplates(prefix = '../../') {
   loadContent('#sidebar', prefix, "sidebar.html")
   loadContent('#desktop-header', prefix, "index-2/desktop/desktop-header.html")
   loadContent('#desktop-footer', prefix, "index-2/desktop/desktop-footer.html")
